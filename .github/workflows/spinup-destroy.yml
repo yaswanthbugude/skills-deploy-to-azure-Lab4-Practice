@@ -10,7 +10,7 @@ env:
   AZURE_APP_PLAN: actions-ttt-deployment
   AZURE_LOCATION: '"East US"'
   ###############################################
-  ### Replace <yaswanthbugude> with GitHub yaswanthbugude ###
+  ### Replace <username> with GitHub username ###
   ###############################################
   AZURE_WEBAPP_NAME: yaswanthbugude-ttt-app
 
